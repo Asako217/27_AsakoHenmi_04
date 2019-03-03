@@ -1,0 +1,27 @@
+.navbar-header{
+    font-weight: bold;
+    color: antiquewhite;
+    background: palevioletred;
+    padding: 10px;
+    font-size:30px;
+}
+
+.photos{
+    display: flex;
+    justify-content: center;
+}
+
+.photos.img {
+    max-width: auto;
+    height: 60px;
+}
+
+.jumbotron{
+
+    font-size: 24px;
+}
+
+.category{
+    font-size: 20px;
+}
+
